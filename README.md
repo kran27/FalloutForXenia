@@ -13,3 +13,7 @@ The patch fixes rendering issues present in xenia by forcing everything to rende
 If you wish to patch your own files instead of using the versions provided here, download `xextool.exe` and `patch.py` from this repo, and run `python patch.py <xex_file>`. This script will produce the same files as are included in this repo.
 
 This has only been tested on `Fallout_Release_Beta.xex` files, other build configurations are not supported.
+
+---
+
+The license in this repo applies only to the present code. No ownership or authorship is claimed of the xextool.exe binary, or any binaries present in previous commits, or GitHub releases.
